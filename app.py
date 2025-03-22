@@ -13,8 +13,8 @@ app.config["UPLOAD_FOLDER"] = "uploads/"
 app.config["TEMPLATE_FOLDER"] = "static/"
 app.config["SECRET_KEY"] = "your_secret_key"  # For form security
 
-EMAIL_SENDER = "krushanakumbhar314@gmail.com"
-EMAIL_PASSWORD = "owxd jvyo zycb dpta" # Your email password
+EMAIL_SENDER = "kumbharkrushana07@gmail.com" # Your email address
+EMAIL_PASSWORD = "zlwr bepb cxvh wldb" # Your email password
 
 # Ensure folders exist
 os.makedirs(app.config["UPLOAD_FOLDER"], exist_ok=True)
